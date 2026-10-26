@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# E-Commerce Behavioral Patterns
-=======
-# ecommerce-behavioral-patterns
->>>>>>> 9d17d1c1e294609425dde8d23120b34096687174
 # E-Commerce Website: Behavioral Design Patterns
 
 **Course:** Software Engineering and System Design (24CS301PC311)
