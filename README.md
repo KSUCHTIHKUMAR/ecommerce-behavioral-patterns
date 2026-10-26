@@ -103,9 +103,23 @@ classDiagram
 ```
 
 ## Sample Output
-*(Paste a screenshot of `python main.py` here)*
+```
+=== Observer: Price Drop Notification ===
+Asha: Phone now ₹18000!
+Ravi: Phone now ₹18000!
+Asha: Phone now ₹17000!
 
-![Output](output.png)
+=== Command: Cart with Undo/Redo ===
+Total after coupon: 15750.0
+After undo coupon: 17500
+After redo coupon: 15750.0
+After removing case: 15300.0
+
+=== Strategy: Payment ===
+Paid ₹15300.0 via UPI
+Paid ₹15300.0 by Card
+Paid ₹15300.0 from Wallet
+```
 
 ## Git Workflow
 - `feature/observer`, `feature/strategy`, `feature/command`: one branch per pattern
